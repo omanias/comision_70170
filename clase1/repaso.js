@@ -9,7 +9,7 @@ console.log(arreglo) */
 
 LET
 permite inicializar variables sin datos
-permite reemplazar el valor
+permite reemplazar el valor del objeto
 
 
 CONST
@@ -162,12 +162,4 @@ const contador1 = new Contador("Facundo")
 // Obtener el responsable y la cuenta individual
 console.log(contador1.obtenerResponsable())
 
-// Contar en cada instancia
-contador1.contar()
-contador1.contar()
-contador1.contar()
-
-console.log(contador1.obtenerCuentaIndividual())
-
-console.log(Contador.obtenerCuentaGlobal())
-
+// Contar en cada i"otro""""")
